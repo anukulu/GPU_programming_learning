@@ -24,7 +24,6 @@ void blurImg(unsigned char *img_in, unsigned char *img_out, int width, int heigh
 
 }
 
-
 int main(){
     int width, height, channels;
 
